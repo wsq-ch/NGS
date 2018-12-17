@@ -1,1 +1,1 @@
-# NGS
+# the experience of learning NGS
