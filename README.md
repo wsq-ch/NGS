@@ -1,1 +1,2 @@
-# the experience of learning NGS
+# 学习rna-seq的一些心得。
+# 更新中
